@@ -12,7 +12,7 @@ title                    : "DanielCoulson.github.io"
 title_separator          : "-"
 name                     : &name "Daniel Andrew Coulson"
 description              : &description "Award winning, fully funded statistics PhD student with an interest in Bayesian Statistics, Time Series Analysis, Quantitative Finance, and deep learning. I am currently working on a Bayesian Deep learning architecture which I ideated with preliminary results showing state of the art performance."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://danielcoulson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
