@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Statistics PhD candidate with an interest in Bayesian statistics, time series analysis, quantitative finance, and deep learning.
+I am a fourth-year Statistics PhD candidate with an interest in Bayesian statistics, time series analysis, quantitative finance, and deep learning.
 
 My first research project focused on modeling time-varying correlation matrices in a Bayesian framework and applying this approach to portfolio risk management. Specifically, we demonstrate that portfolio diversification does not mitigate the problems caused by a financial crisis for an investor's portfolio. We also applied our methodology to construct minimum variance portfolios (MVPs) and compared them with those constructed using standard methods.
 
