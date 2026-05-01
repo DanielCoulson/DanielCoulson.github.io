@@ -6,12 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Statistics PhD candidate at Cornell University. The theme of my PhD research is decision-making under uncertainty. I have particularly focused on Bayesian statistics and time-series analysis. My research has applications in several areas, including quantitative finance, Cardiology, and extreme weather, amongst others. 
+I am a Statistics PhD candidate at Cornell University working at the intersection of Bayesian inference, deep learning, and decision making under uncertainty.
 
-I have proposed a new hierarchical Bayesian model for time-varying correlation matrices. As part of this, I established a first-of-its-kind posterior concentration result to demonstrate the model’s theoretical performance. A simulation study was also performed, demonstrating the model’s superior performance in terms of accuracy and credible interval width at the desired level of coverage, compared to competing methods. The model was applied to real-world financial markets in times of crisis, providing more responsive dynamics than the VIX index, and used to estimate minimum-variance portfolios. 
+My research focuses on developing statistical and machine learning methods that are accurate, theoretically grounded, and 
+principled in how they represent uncertainty and support decisions. I work across methodology, theory, and applied collaborations, with projects spanning time series, quantitative finance, cardiology, energy, weather, and Bayesian deep learning.
 
-I have also proposed a new machine learning problem called the Foreclassing problem. In this problem, the class label of a time series depends on the future observations of that time series, which requires a model to first forecast the time series, possibly consider its predictive uncertainty regarding those forecasts, and then make a classification decision. I state and prove the Foreclassing Theorem, which formally characterizes when Foreclassing is more helpful relative to standard time series classification. To solve this problem, I have proposed a novel deep Bayesian neural network called ForeClassNet, including a new neural network layer called Boltzmann convolutions, which allow for a probabilistic approach to learning kernel sizes in convolutional layers. Through several experiments on real-world datasets, ForeClassNet achieved superior performance compared to state-of-the-art time-series classifiers, demonstrating the advantage of solving the Foreclassing problem and the strength of ForeClassNet. 
+A central theme of my PhD has been developing models for complex decision making problems. I developed a hierarchical Bayesian model for time varying correlation matrices and proved a posterior contraction result characterizing its theoretical behavior, with simulations demonstrating strong accuracy and uncertainty quantification.
 
-As part of a collaborative project with NewYork-Presbyterian Hospital, I developed a deep Bayesian multimodal neural network for ECG classification, which achieved superior performance in the target performance metric, area under the receiver operating characteristic curve, compared with state-of-the-art competing methods, and showed strong performance for the sickest patients. 
+I have also worked on Foreclassing, a framework for settings where the goal is not simply to forecast the future, but to make a classification decision that depends on that future. This led to ForeClassNet, a deep Bayesian neural network that models possible future trajectories and their uncertainty before making downstream decisions, with experiments across weather, energy, and finance.
 
-I am also working on a project in statistical decision theory.
+In healthcare, I collaborated with NewYork-Presbyterian Hospital where I developed a bespoke deep Bayesian multimodal neural network for ECG classification, achieving state-of-the-art performance in AUROC and AUPRC. This work is being prepared for publication and a prospective clinical trial.
+
+More recently, I have studied Bayesian neural networks through the lens of statistical decision theory, asking when the decisions induced by these models are statistically well founded in particular minimax and admissible. This work connects modern Bayesian deep learning with classical questions about optimal decision making.
+
+Across my research, I enjoy combining mathematical rigor, modern machine learning, and real-world collaboration to build methods that help people make better decisions under uncertainty.
