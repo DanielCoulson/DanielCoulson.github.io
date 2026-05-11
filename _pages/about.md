@@ -8,10 +8,9 @@ redirect_from:
 ---
 I am a Statistics PhD candidate at Cornell University working at the intersection of Bayesian inference, deep learning, and decision making under uncertainty.
 
-My research focuses on developing statistical and machine learning methods that are accurate, theoretically grounded, and 
-principled in how they represent uncertainty and support decisions. I work across methodology, theory, and applied collaborations, with projects spanning time series, quantitative finance, cardiology, energy, weather, and Bayesian deep learning.
+My research focuses on developing statistical and machine learning methods that are accurate, theoretically grounded, and principled in how they represent uncertainty and support decisions. I work across methodology, theory, and applied collaborations, with projects spanning time series, quantitative finance, cardiology, energy, weather, and Bayesian deep learning.
 
-A central theme of my PhD has been developing models for complex decision making problems. I developed a hierarchical Bayesian model for time varying correlation matrices and proved a posterior contraction result characterizing its theoretical behavior, with simulations demonstrating strong accuracy and uncertainty quantification.
+A central theme of my PhD has been developing models for complex decision making problems. I developed a Bayesian framework for modeling time-varying correlation matrices in financial portfolios, combining dynamic shrinkage priors with multivariate factor stochastic volatility to capture evolving dependence under uncertainty. I also introduced an information-theoretically grounded scalar summary of overall portfolio co-movement and proved a posterior contraction result for this class of models. Simulations show stronger performance metrics than competing methods, while equity portfolio applications illustrate retrospective assessment of diversification and fragility during market stress.
 
 I have also worked on Foreclassing, a framework for settings where the goal is not simply to forecast the future, but to make a classification decision that depends on that future. This led to ForeClassNet, a deep Bayesian neural network that models possible future trajectories and their uncertainty before making downstream decisions, with experiments across weather, energy, and finance.
 
