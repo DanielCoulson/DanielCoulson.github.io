@@ -1,13 +1,15 @@
+
 ---
 layout: page
-title: "Resume"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<p>You can view and download my resume here:</p>
+<p>You can view and download my curriculum vitae here:</p>
 
-<a href="{{ site.baseurl }}/files/Daniel_Coulson_resume.pdf" target="_blank">Download Resume (PDF)</a>
+<a href="{{ site.baseurl }}/files/YOUR_CV_FILENAME.pdf" target="_blank">Download CV (PDF)</a>
+  
 
