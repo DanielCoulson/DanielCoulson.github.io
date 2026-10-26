@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Curriculum vitae"
@@ -10,6 +9,5 @@ redirect_from:
 
 <p>You can view and download my curriculum vitae here:</p>
 
-<a href="{{ site.baseurl }}/files/YOUR_CV_FILENAME.pdf" target="_blank">Download CV (PDF)</a>
-  
+<a href="{{ site.baseurl }}/files/Coulson_Andrew_Daniel_CV.pdf" target="_blank">Download CV (PDF)</a>
 
